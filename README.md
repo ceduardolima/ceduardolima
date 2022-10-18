@@ -6,7 +6,7 @@ Sou apaixonado por programação. Hoje me foco é no desenolvimento android nati
 
 
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=ceduardolima&show_icons=true&theme=dracula)
+![Github Status](https://github-readme-stats.vercel.app/api?username=ceduardolima&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias mais usadas
 <div style="display: inline_block"><br/>
