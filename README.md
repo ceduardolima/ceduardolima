@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá, eu sou o Eduardo! 🚀
+Sou apaixonado por programação. Hoje me foco é no desenolvimento android nativo. Para ter mais infomações sobre mim, da uma olhadinha no meu LinkedIn!
 
-<!--
-**ceduardolima/ceduardolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-lima-da-costa/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Github Status](https://github-readme-stats.vercel.app/api?username=ceduardolima&show_icons=true&theme=dracula)
+
+## Tecnologias mais usadas
+<div style="display: inline_block"><br/>
+<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<div/>
+
+
+
