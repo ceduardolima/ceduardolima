@@ -1,6 +1,10 @@
 ## Hi There 
   
-Mid-level Frontend/Mobile Developer with expertise in React, TypeScript, React Native, and Flutter. My main focus is building scalable applications using the best software engineering practices, such as unit testing, design patterns, and simplicity. Although I specialize in Frontend development, I can easily work on Backend development as well, supporting the team whenever necessary. I am strongly committed to understanding client needs and collaborating effectively to propose improvements that truly add value to the product, aligning expectations and contributing to the continuous evolution of the solution.
+Mid-level Frontend/Mobile Developer with expertise in React, TypeScript, React Native, and Flutter. 
+
+My main focus is building scalable applications using the best software engineering practices, such as unit testing, design patterns, and simplicity. Although I specialize in Frontend development, I can easily work on Backend development as well, supporting the team whenever necessary. 
+
+I am strongly committed to understanding client needs and collaborating effectively to propose improvements that truly add value to the product, aligning expectations and contributing to the continuous evolution of the solution.
     
 ## Tech Skills
 <div style="display: inline_block">
